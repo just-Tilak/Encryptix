@@ -1,2 +1,2 @@
 # Encryptix
-Encryptix tasks.
+Tasks done in a one month Virtual Internship at Encryptix.
